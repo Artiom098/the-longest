@@ -1,54 +1,54 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Andriy",
-        "sirname": "Moskalenko",
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
-        "balance": 1500
-      },
-      {
-        "id": 2,
-        "name": "Yuriy",
-        "sirname": "Berezovchuk",
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat1.png",
-        "balance": 5790
-      },
-      {
-        "id": 3,
-        "name": "Cat",
-        "sirname": "Egyptian",
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat2.jpg",
-        "balance": 0
-      }
-    ],
-    "products": [
-      {
-        "id": 1,
-        "name": "Magazin cu ciocolate",
-        "description": "Ciocolata cu prune",
-        "price": 92,
-        "author_id": 1,
-        "photo_url": "https://img1.zakaz.md/upload.version_1.0.0c4775ce267c23436265af0cc4690cd1.1350x1350.jpeg"
-      },
-      {
-        "id": 2,
-        "name": "Incarcatoare",
-        "description": "Mai rapide nu gasesti!.",
-        "price": 180,
-        "author_id": 3,
-        "photo_url": "https://kub.md/image/cache/catalog/00011.2019/Borofone/BA53A/Type-C/borofone-ba53a-powerway-dual-port-wall-charger-eu-usb-c-set-white-800x800.jpg"
-      },
-      {
-        "id": 3,
-        "name": "Amazon prime",
-        "description": "Sunt extrem de ieftine",
-        "price": 300,
-        "author_id": 2,
-        "photo_url": "https://variety.com/wp-content/uploads/2018/04/amazon-prime.jpg?w=942"
-      },
-      {
-         "id": 4,
+  "users": [
+    {
+      "id": 1,
+      "name": "Andriy",
+      "sirname": "Moskalenko",
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/photo.png",
+      "balance": 1500
+    },
+    {
+      "id": 2,
+      "name": "Yuriy",
+      "sirname": "Berezovchuk",
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat1.png",
+      "balance": 5790
+    },
+    {
+      "id": 3,
+      "name": "Cat",
+      "sirname": "Egyptian",
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/cat2.jpg",
+      "balance": 0
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Chisinau de seara",
+      "description": "Ciocolata cu prune",
+      "price": 92,
+      "author_id": 1,
+      "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmaoNA34D7Uj4VfI-01L5g8jgOd6aj-sGRTXkjKBl-VA&s"
+    },
+    {
+      "id": 2,
+      "name": "Arduino UNO",
+      "description": "Brand new and high quality.",
+      "price": 180,
+      "author_id": 3,
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "ESP8266 5V",
+      "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+      "price": 300,
+      "author_id": 2,
+      "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+    },
+    {
+      "id": 4,
       "name": "RGB",
       "description": "Can make color party.",
       "price": 92,
