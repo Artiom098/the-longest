@@ -33,11 +33,11 @@
       },
       {
         "id": 2,
-        "name": "Arduino UNO",
-        "description": "Brand new and high quality.",
+        "name": "Incarcatoare",
+        "description": "Mai rapide nu gasesti!.",
         "price": 180,
         "author_id": 3,
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+        "photo_url": "https://kub.md/image/cache/catalog/00011.2019/Borofone/BA53A/Type-C/borofone-ba53a-powerway-dual-port-wall-charger-eu-usb-c-set-white-800x800.jpg"
       },
       {
         "id": 3,
